@@ -4,6 +4,8 @@ fun main() {
 
     var veiculo: ModoDeTransporte
 
+    veiculo = Bicicleta()
+
     println("Vamos iniciar os testes!")
     println()
     println("Apresentação do veículo:")
